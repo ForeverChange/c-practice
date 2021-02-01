@@ -1,0 +1,2 @@
+D:\C语言\DebugRelease_2.1\Debug\DebugRelease_2.1.exe
+D:\C语言\DebugRelease_2.1\Debug\DebugRelease_2.1.pdb
